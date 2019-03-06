@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /测试/
-category: "测试"
+title: 设计
+permalink: /设计/
+category: "设计"
 tagline: "it's all about perception."
 ---
