@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 生活
-email: Lulongji2011@163.com
-description: 生活
+title: 生活点滴
+email: lulongji2011@163.com
+description: 生活中我们会经历许许多多的事，不管是好的还是坏的都是为你量身定做的，我希望能用文字的方式来记录这生活的点滴，供以后有所忆。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lulongji3.github.io" # the base hostname & protocol for your site
 twitter_username: 
