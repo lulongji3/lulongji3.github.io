@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
-permalink: /science/
+title: 测试
+permalink: /测试/
 tagline: "Humanity is overrated."
-category: "science"
+category: "测试"
 ---
